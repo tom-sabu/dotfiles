@@ -1,0 +1,20 @@
+[global]
+    font = JetBrainsMono Nerd Font 12   # matches your i3 font
+    corner_radius = 8
+    frame_width = 2
+    gap_size = 8
+
+[urgency_normal]
+    background = "#24273a"
+    foreground = "#cad3f5"
+    frame_color = "#8aadf4"             # matches client.focused border
+
+[urgency_low]
+    background = "#24273a"
+    foreground = "#a5adcb"
+    frame_color = "#494d64"
+
+[urgency_critical]
+    background = "#24273a"
+    foreground = "#ffffff"
+    frame_color = "#ed8796"             # matches client.urgent

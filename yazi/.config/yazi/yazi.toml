@@ -1,0 +1,21 @@
+[opener]
+text = [
+  { run = 'nvim "$@"', block = true, desc = "Nvim" },
+]
+image = [
+  { run = 'eog "$@"', desc = "eog" },
+  { run = 'feh "$@"', desc = "feh" },
+]
+video = [
+  { run = 'totem "$@"' },
+]
+pdf = [
+  { run = 'evince "$@"' },
+]
+[open]
+rules = [
+  { mime = "text/*", use = "text" },
+  { mime = "image/*", use = "image" },
+  { mime = "video/*", use = "video" },
+  { mime = "application/pdf", use = "pdf" },
+]
