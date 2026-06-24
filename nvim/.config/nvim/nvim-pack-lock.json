@@ -1,0 +1,58 @@
+{
+  "plugins": {
+    "alpha-nvim": {
+      "rev": "6c6a89d5b068b5251c8bdf0dd57bb921bcfeeb09",
+      "src": "https://github.com/goolord/alpha-nvim"
+    },
+    "blink.cmp": {
+      "rev": "78336bc89ee5365633bcf754d93df01678b5c08f",
+      "src": "https://github.com/saghen/blink.cmp",
+      "version": "1.0.0 - 2.0.0"
+    },
+    "catppuccin": {
+      "rev": "e068ab5f8261f23f6f71ffd8791ae40315b77b9c",
+      "src": "https://github.com/catppuccin/nvim"
+    },
+    "fzf-lua": {
+      "rev": "267f5db2aa2202b9f6cc7a50783f0ccd2121766c",
+      "src": "https://github.com/ibhagwan/fzf-lua"
+    },
+    "gitsigns.nvim": {
+      "rev": "2038c666bd9d8a0b7349a0b6ee00dc83104b9ecf",
+      "src": "https://github.com/lewis6991/gitsigns.nvim"
+    },
+    "indent-blankline.nvim": {
+      "rev": "d28a3f70721c79e3c5f6693057ae929f3d9c0a03",
+      "src": "https://github.com/lukas-reineke/indent-blankline.nvim"
+    },
+    "lazygit.nvim": {
+      "rev": "a04ad0dbc725134edbee3a5eea29290976695357",
+      "src": "https://github.com/kdheepak/lazygit.nvim"
+    },
+    "lualine.nvim": {
+      "rev": "221ce6b2d999187044529f49da6554a92f740a96",
+      "src": "https://github.com/nvim-lualine/lualine.nvim"
+    },
+    "mason.nvim": {
+      "rev": "2a6940af80375532e5e9e7c1f2fc6319a1b7a69d",
+      "src": "https://github.com/mason-org/mason.nvim"
+    },
+    "neo-tree.nvim": {
+      "rev": "83e7a2982fd12b9c3d35bc39dd5877cd91a02a61",
+      "src": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+      "version": "3.0.0 - 4.0.0"
+    },
+    "nui.nvim": {
+      "rev": "de740991c12411b663994b2860f1a4fd0937c130",
+      "src": "https://github.com/MunifTanjim/nui.nvim"
+    },
+    "nvim-web-devicons": {
+      "rev": "dfbfaa967a6f7ec50789bead7ef87e336c1fa63c",
+      "src": "https://github.com/nvim-tree/nvim-web-devicons"
+    },
+    "plenary.nvim": {
+      "rev": "74b06c6c75e4eeb3108ec01852001636d85a932b",
+      "src": "https://github.com/nvim-lua/plenary.nvim"
+    }
+  }
+}
